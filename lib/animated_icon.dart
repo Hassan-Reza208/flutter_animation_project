@@ -36,7 +36,7 @@ class _AnimatedIconPageState extends State<AnimatedIconPage> with TickerProvider
   @override
   Widget build(BuildContext context) =>Scaffold(
     appBar: AppBar(
-      title: Text('Animated icon'),
+      title: Text('Animated icon on GitUp'),
       centerTitle: true,
     ),
     body: Center(
